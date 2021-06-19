@@ -365,14 +365,14 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "+91-9691801441",
+  email_address: "rrjain20122000@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
+  userName: "riturajjain2000", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
