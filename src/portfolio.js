@@ -11,26 +11,26 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
+  username: "Rituraj Jain",
+  title: "Hola👋, I'm Rituraj",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Mobile Developer who always thrives to work products which develop sustainable and scalable social and technical systems to create impact."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://drive.google.com/file/d/1sclNeM-3aGMLSFKH4VSOaWyu4IRJzKdB/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/riturajjain2000",
+  linkedin: "https://www.linkedin.com/in/riturajjain2000/",
+  gmail: "rrjain20122000@gmail.com",
+  gitlab: "https://gitlab.com/riturajjain2000",
+  stackoverflow: "https://stackoverflow.com/users/12618131/rituraj-jain",  
+  twitter: "https://twitter.com/riturajjain2000",
+  instagram: "https://www.instagram.com/riturajjain2000/",
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };
@@ -39,14 +39,29 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "CRAZY DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Mobile App Development - Android | Flutter"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Game Development - Unity 3D | Unreal"
+    ),
+    emoji(
+      "⚡ Database - Firebase | MySQL"
+    ),
+    emoji(
+      "⚡ Programming Languages- C++ | Python | Java | Dart | C#"
+    ),
+    emoji(
+      "⚡ UI/UX - Adobe XD | Figma | Zeplin"
+    ),
+    emoji(
+      "⚡ VCS - Git | GitHub | Gitlab"
+    ),
+    
+    emoji(
+      "🚀🚀 Also Managing a Start-up"
     )
   ],
 
