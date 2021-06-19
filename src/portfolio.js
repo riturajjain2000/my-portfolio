@@ -70,56 +70,76 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "Android",
+      fontAwesomeClassname: "fab fa-android"
     },
     {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      skillName: "Flutter",
+      fontAwesomeClassname: "fab fa-mobile-android-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "Unity",
+      fontAwesomeClassname: "fab fa-Unity"
     },
     {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      skillName: "Unreal Engine",
+      fontAwesomeClassname: "fas fa-gamepad"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      skillName: "Firebase",
+      fontAwesomeClassname: "fab fa-database"
     },
     {
-      skillName: "nodejs",
+      skillName: "MySQL",
+      fontAwesomeClassname: "fab fa-database"
+    },
+    {
+      skillName: "C++",
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
+      skillName: "Java",
+      fontAwesomeClassname: "fas fa-java"
+    },
+    {
+      skillName: "Kotlin",
+      fontAwesomeClassname: "fab fa-aws"
+    },
+    {
+      skillName: "Dart",
+      fontAwesomeClassname: "fas fa-sass"
+    },
+    {
+      skillName: "C#",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "Adobe XD",
       fontAwesomeClassname: "fab fa-docker"
+    },
+        {
+      skillName: "Figma",
+      fontAwesomeClassname: "fab fa-figma"
+    },
+        {
+      skillName: "Zeplin",
+      fontAwesomeClassname: "fab fa-python"
+    },
+        {
+      skillName: "Git",
+      fontAwesomeClassname: "fab fa-git-alt"
+    },
+        {
+      skillName: "Github",
+      fontAwesomeClassname: "fab fa-github"
+    },
+        {
+      skillName: "Gitlab",
+      fontAwesomeClassname: "fab fa-gitlab"
     }
   ],
   display: true // Set false to hide this section, defaults to true
