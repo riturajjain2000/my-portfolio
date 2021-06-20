@@ -75,11 +75,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Flutter",
-      fontAwesomeClassname: "fab fa-mobile-android-alt"
+      fontAwesomeClassname: "fab fa-android"
     },
     {
       skillName: "Unity",
-      fontAwesomeClassname: "fab fa-Unity"
+      fontAwesomeClassname: "fab fa-unity"
     },
     {
       skillName: "Unreal Engine",
@@ -87,11 +87,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Firebase",
-      fontAwesomeClassname: "fab fa-database"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "MySQL",
-      fontAwesomeClassname: "fab fa-database"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "C++",
@@ -103,7 +103,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Java",
-      fontAwesomeClassname: "fas fa-java"
+      fontAwesomeClassname: "fab fa-java"
     },
     {
       skillName: "Kotlin",
@@ -111,7 +111,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Dart",
-      fontAwesomeClassname: "fas fa-sass"
+      fontAwesomeClassname: "fab fa-sass"
     },
     {
       skillName: "C#",
