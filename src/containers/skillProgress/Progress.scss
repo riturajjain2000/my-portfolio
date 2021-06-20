@@ -29,7 +29,7 @@
 .skills-container {
   display: flex;
   width: 80%;
-  padding: 10px 10px;
+  padding: 20px 10px;
   margin-left: 10px;
   margin-top: 2rem;
 }
@@ -45,7 +45,7 @@
 
 /* Media Query */
 
-@media (max-width: 1256px) {
+@media (max-width: 1456px) {
   .skills-bar {
     line-height: 4rem;
   }
@@ -55,7 +55,7 @@
   }
 }
 
-@media (max-width: 668px) {
+@media (max-width: 768px) {
   .skills-container {
     flex-direction: column;
   }
