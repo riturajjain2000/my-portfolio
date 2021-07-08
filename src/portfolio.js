@@ -155,10 +155,9 @@ const educationInfo = {
       logo: require("./assets/images/jeclogo.png"),
       subHeader: "Bachelor of Technology in Computer Science",
       duration: "July 2018 - May 2022",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Doing Study from Home for the last 1 and a half year!!",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Pretending to study in the Online Classes"
       ]
     }
   ]
@@ -191,7 +190,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
+      role: "Mobile Development Engineer",
       company: "Facebook",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2021 – Present",
@@ -202,14 +201,14 @@ const workExperiences = {
       ]
     },
     {
-      role: "Front-End Developer",
+      role: "Android Developer",
       company: "Quora",
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "May 2019 – May 2019",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      role: "Software Engineer Intern",
+      role: "Android Dev. Intern",
       company: "Airbnb",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "Jan 2018 – Sep 2018",
@@ -223,7 +222,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
