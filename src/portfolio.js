@@ -14,7 +14,7 @@ const greeting = {
   username: "Rituraj Jain",
   title: "Hello, I'm Rituraj",
   subTitle: emoji(
-    "A passionate Mobile Developer who always thrives to work products which develop sustainable and scalable social and technical systems to create impact."
+    "A passionate Mobile Developer who always thrives to work on products which develop sustainable and scalable social and technical systems to create impact."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1sclNeM-3aGMLSFKH4VSOaWyu4IRJzKdB/view?usp=sharing",
@@ -191,7 +191,7 @@ const workExperiences = {
   experience: [
     {
       role: "Mobile Development Engineer",
-      company: "Facebook",
+      company: "TOKN",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2021 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -202,16 +202,16 @@ const workExperiences = {
     },
     {
       role: "Android Developer",
-      company: "Quora",
+      company: "SSN Architects",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2019 – May 2019",
+      date: "June 2020 – Oct 2020",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
       role: "Android Developer",
-      company: "Airbnb",
+      company: "Lotpick",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2018 – Sep 2018",
+      date: "March 2020 – June 2020",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
