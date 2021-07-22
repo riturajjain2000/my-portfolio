@@ -191,7 +191,7 @@ const workExperiences = {
   experience: [
     {
       role: "Mobile Development Engineer",
-      company: "TOKN",
+      company: "TOKN Tech",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2021 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -210,7 +210,16 @@ const workExperiences = {
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "March 2020 – June 2020",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      role: "CTA",
+      company: "EtherWorld",
+      companylogo: require("./assets/images/airbnbLogo.png"),
+      date: "July 2019 – Oct 2019",
+      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
+
+
   ]
 };
 
