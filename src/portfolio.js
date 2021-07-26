@@ -191,7 +191,7 @@ const workExperiences = {
   experience: [
     {
       role: "Mobile Development Engineer",
-      company: "TOKN Tech",
+      company: "TOKN Technoogies",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2021 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
