@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Mobile Developer who always thrives to work on products which develop sustainable and scalable social and technical systems to create impact."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1sclNeM-3aGMLSFKH4VSOaWyu4IRJzKdB/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1uKQJPI6998MbF_t_wVhlo8z2VKpe6hMK?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
