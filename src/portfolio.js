@@ -226,43 +226,43 @@ const workExperiences = {
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
-// const openSource = {
-//   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-//   display: false // Set false to hide this section, defaults to true
-// };
+const openSource = {
+  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  display: false // Set false to hide this section, defaults to true
+};
 
 // Some big projects you have worked on
 
-// const bigProjects = {
-//   title: "Big Projects",
-//   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
-//   projects: [
-//     {
-//       image: require("./assets/images/saayaHealthLogo.webp"),
-//       projectName: "Saayahealth",
-//       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-//       footerLink: [
-//         {
-//           name: "Visit Website",
-//           url: "http://saayahealth.com/"
-//         }
-//         //  you can add extra buttons here.
-//       ]
-//     },
-//     {
-//       image: require("./assets/images/nextuLogo.webp"),
-//       projectName: "Nextu",
-//       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-//       footerLink: [
-//         {
-//           name: "Visit Website",
-//           url: "http://nextu.se/"
-//         }
-//       ]
-//     }
-//   ],
-//   display: false // Set false to hide this section, defaults to true
-// };
+const bigProjects = {
+  title: "Big Projects",
+  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  projects: [
+    {
+      image: require("./assets/images/saayaHealthLogo.webp"),
+      projectName: "Saayahealth",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://saayahealth.com/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Nextu",
+      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://nextu.se/"
+        }
+      ]
+    }
+  ],
+  display: false // Set false to hide this section, defaults to true
+};
 
 // Achievement Section
 // Include certificates, talks etc
@@ -324,46 +324,46 @@ const achievementSection = {
 
 // Blogs Section
 
-// const blogSection = {
-//   title: "Blogs",
-//   subtitle:
-//     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+const blogSection = {
+  title: "Blogs",
+  subtitle:
+    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
 
-//   blogs: [
-//     {
-//       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-//       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-//       description:
-//         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-//     },
-//     {
-//       url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-//       title: "Why REACT is The Best?",
-//       description:
-//         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-//     }
-//   ],
-//   display: false // Set false to hide this section, defaults to true
-// };
+  blogs: [
+    {
+      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
+      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      description:
+        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+    },
+    {
+      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      title: "Why REACT is The Best?",
+      description:
+        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+    }
+  ],
+  display: false // Set false to hide this section, defaults to true
+};
 
 // Talks Sections
 
-// const talkSection = {
-//   title: "TALKS",
-//   subtitle: emoji(
-//     "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
-//   ),
+const talkSection = {
+  title: "TALKS",
+  subtitle: emoji(
+    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+  ),
 
-//   talks: [
-//     {
-//       title: "Build Actions For Google Assistant",
-//       subtitle: "Codelab at GDG DevFest Karachi 2019",
-//       slides_url: "https://bit.ly/saadpasta-slides",
-//       event_url: "https://www.facebook.com/events/2339906106275053/"
-//     }
-//   ],
-//   display: false // Set false to hide this section, defaults to true
-// };
+  talks: [
+    {
+      title: "Build Actions For Google Assistant",
+      subtitle: "Codelab at GDG DevFest Karachi 2019",
+      slides_url: "https://bit.ly/saadpasta-slides",
+      event_url: "https://www.facebook.com/events/2339906106275053/"
+    }
+  ],
+  display: false // Set false to hide this section, defaults to true
+};
 
 // Podcast Section
 
@@ -371,12 +371,12 @@ const podcastSection = {
   title: emoji("Podcast 🎙️"),
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
-//   // Please Provide with Your Podcast embeded Link
-//   podcast: [
-//     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
-//   ],
-//   display: false // Set false to hide this section, defaults to true
-// };
+  // Please Provide with Your Podcast embeded Link
+  podcast: [
+    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+  ],
+  display: false // Set false to hide this section, defaults to true
+};
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
