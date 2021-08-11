@@ -194,7 +194,7 @@ const workExperiences = {
       company: "TOKN Technoogies",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2021 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: ""
 
     },
     {
@@ -202,21 +202,21 @@ const workExperiences = {
       company: "SSN Architects",
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "June 2020 – Oct 2020",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: ""
     },
     {
       role: "Android Developer",
       company: "Lotpick",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "March 2020 – June 2020",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: ""
     },
     {
       role: "CTA",
       company: "EtherWorld",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "July 2019 – Oct 2019",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: ""
     }
 
 
