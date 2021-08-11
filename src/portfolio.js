@@ -190,7 +190,7 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Mobile Development Engineer",
+      role: "Android Engineer",
       company: "TOKN Technoogies",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "June 2021 – Present",
