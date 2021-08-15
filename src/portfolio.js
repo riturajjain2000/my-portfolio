@@ -198,14 +198,14 @@ const workExperiences = {
 
     },
     {
-      role: "Android Developer",
+      role: "Android Engineer",
       company: "SSN Architects",
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "June 2020 – Oct 2020",
       desc: ""
     },
     {
-      role: "Android Developer",
+      role: "Android Engineer",
       company: "Lotpick",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "March 2020 – June 2020",
