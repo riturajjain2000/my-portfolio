@@ -155,9 +155,9 @@ const educationInfo = {
       logo: require("./assets/images/jeclogo.png"),
       subHeader: "Bachelor of Technology in Computer Science",
       duration: "July 2018 - May 2022",
-      desc: "Doing Study from Home for the last 1 and a half year!!",
+      desc: "",
       descBullets: [
-        "Pretending to study in the Online Classes"
+        ""
       ]
     }
   ]
